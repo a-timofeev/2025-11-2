@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="63.93215081354296cm"
+     height="43.51727646322003cm"
+     viewBox="0 0 1236 841"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clipabfc3e00-65f7-4a39-902f-38c9b86e805a">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 856.87 613.78 C 856.87 720.64 770.24 807.27 663.38 807.27 C 556.52 807.27 469.90 720.64 469.90 613.78 C 469.90 506.92 556.52 420.29 663.38 420.29 C 770.24 420.29 856.87 506.92 856.87 613.78 z"/>
+<title>Окружность c</title>
+<desc>Окружность c: Окружность с центром O и радиусом 1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<clipPath id="clipa87a8698-578c-4889-944b-cc5fb182e6cf">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 469.90 33.320 L 1050.4 807.27"/>
+<title>Отрезок i</title>
+<desc>Отрезок i: Отрезок [B, A]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clip79bb8178-ebbd-4ada-aa62-f1c597ec5830">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 1050.4 807.27 L 469.90 807.27"/>
+<title>Отрезок j</title>
+<desc>Отрезок j: Отрезок [A, C]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clip78229a4d-dc0b-4cf7-b347-7c9dd19ff9ad">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 469.90 807.27 L 469.90 33.320"/>
+<title>Отрезок k</title>
+<desc>Отрезок k: Отрезок [C, B]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clipda4eb1ab-6cc4-47e3-a8c2-137d9b986164">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 469.90 420.29 L 760.12 420.29"/>
+<title>Отрезок l</title>
+<desc>Отрезок l: Отрезок [E, F]</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip7d0e83e8-4275-49fb-92cf-5403e4f19a32">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 668.38 613.78 C 668.38 616.54 666.14 618.78 663.38 618.78 C 660.62 618.78 658.38 616.54 658.38 613.78 C 658.38 611.02 660.62 608.78 663.38 608.78 C 666.14 608.78 668.38 611.02 668.38 613.78 z"/>
+<title>Точка O</title>
+<desc>O = (0, 0)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip0397874b-4d7f-4a99-8a79-41e0b4eadf58">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 668.38 613.78 C 668.38 616.54 666.14 618.78 663.38 618.78 C 660.62 618.78 658.38 616.54 658.38 613.78 C 658.38 611.02 660.62 608.78 663.38 608.78 C 666.14 608.78 668.38 611.02 668.38 613.78 z"/>
+<title>Точка O</title>
+<desc>O = (0, 0)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clipe44be888-2cf6-47fa-b370-2e3f3d49b72c">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 667.78 598.42 Q 667.78 595.56 669.31 593.95 Q 670.84 592.34 673.27 592.34 Q 674.84 592.34 676.11 593.11 Q 677.39 593.86 678.06 595.22 Q 678.73 596.56 678.73 598.28 Q 678.73 600.03 678.03 601.41 Q 677.33 602.78 676.03 603.50 Q 674.75 604.20 673.25 604.20 Q 671.64 604.20 670.36 603.42 Q 669.09 602.62 668.44 601.28 Q 667.78 599.92 667.78 598.42 z M 669.34 598.44 Q 669.34 600.52 670.45 601.70 Q 671.56 602.89 673.25 602.89 Q 674.95 602.89 676.06 601.69 Q 677.17 600.48 677.17 598.28 Q 677.17 596.88 676.69 595.84 Q 676.22 594.80 675.31 594.22 Q 674.41 593.64 673.27 593.64 Q 671.66 593.64 670.50 594.75 Q 669.34 595.86 669.34 598.44 z"/>
+<title>Точка O</title>
+<desc>O = (0, 0)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clipb98733df-ed96-4968-af1c-c08b4335018c">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 473.90 33.320 C 473.90 35.530 472.10 37.320 469.90 37.320 C 467.69 37.320 465.90 35.530 465.90 33.320 C 465.90 31.111 467.69 29.320 469.90 29.320 C 472.10 29.320 473.90 31.111 473.90 33.320 z"/>
+<title>Точка B</title>
+<desc>Точка B: Пересечение eq1 и h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip66bf38ec-8c64-493d-886f-6f930d3565cd">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 473.90 33.320 C 473.90 35.530 472.10 37.320 469.90 37.320 C 467.69 37.320 465.90 35.530 465.90 33.320 C 465.90 31.111 467.69 29.320 469.90 29.320 C 472.10 29.320 473.90 31.111 473.90 33.320 z"/>
+<title>Точка B</title>
+<desc>Точка B: Пересечение eq1 и h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip19fb7268-1d4a-4ba7-ac46-a6429c748511">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 452.17 25.000 L 452.17 13.547 L 456.47 13.547 Q 457.78 13.547 458.58 13.891 Q 459.38 14.234 459.81 14.969 Q 460.27 15.688 460.27 16.469 Q 460.27 17.203 459.86 17.859 Q 459.47 18.500 458.67 18.906 Q 459.70 19.203 460.27 19.938 Q 460.83 20.672 460.83 21.672 Q 460.83 22.484 460.48 23.172 Q 460.14 23.859 459.64 24.234 Q 459.14 24.609 458.39 24.812 Q 457.64 25.000 456.55 25.000 L 452.17 25.000 z M 453.69 18.359 L 456.17 18.359 Q 457.17 18.359 457.61 18.219 Q 458.19 18.047 458.48 17.656 Q 458.78 17.250 458.78 16.656 Q 458.78 16.078 458.50 15.656 Q 458.23 15.219 457.72 15.062 Q 457.22 14.891 455.98 14.891 L 453.69 14.891 L 453.69 18.359 z M 453.69 23.641 L 456.55 23.641 Q 457.28 23.641 457.58 23.594 Q 458.09 23.500 458.44 23.281 Q 458.80 23.062 459.02 22.641 Q 459.25 22.219 459.25 21.672 Q 459.25 21.031 458.92 20.562 Q 458.59 20.094 458.02 19.906 Q 457.44 19.703 456.34 19.703 L 453.69 19.703 L 453.69 23.641 z"/>
+<title>Точка B</title>
+<desc>Точка B: Пересечение eq1 и h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clip6428cb77-297d-496f-acbd-f2971e894423">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 1054.4 807.27 C 1054.4 809.48 1052.6 811.27 1050.4 811.27 C 1048.1 811.27 1046.4 809.48 1046.4 807.27 C 1046.4 805.06 1048.1 803.27 1050.4 803.27 C 1052.6 803.27 1054.4 805.06 1054.4 807.27 z"/>
+<title>Точка A</title>
+<desc>Точка A: Пересечение f и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clip0bbe5e68-cb81-4b16-846d-5badf97504cd">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 1054.4 807.27 C 1054.4 809.48 1052.6 811.27 1050.4 811.27 C 1048.1 811.27 1046.4 809.48 1046.4 807.27 C 1046.4 805.06 1048.1 803.27 1050.4 803.27 C 1052.6 803.27 1054.4 805.06 1054.4 807.27 z"/>
+<title>Точка A</title>
+<desc>Точка A: Пересечение f и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clipbd1ce6fd-1e13-4f0c-ab4f-f13bbb1e658f">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 1061.0 820.00 L 1065.4 808.55 L 1067.0 808.55 L 1071.7 820.00 L 1070.0 820.00 L 1068.6 816.53 L 1063.8 816.53 L 1062.6 820.00 L 1061.0 820.00 z M 1064.3 815.30 L 1068.2 815.30 L 1067.0 812.12 Q 1066.4 810.67 1066.2 809.75 Q 1065.9 810.84 1065.5 811.94 L 1064.3 815.30 z"/>
+<title>Точка A</title>
+<desc>Точка A: Пересечение f и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clip8b1a5b3f-1f4b-42d6-b119-3a9989d98127">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 473.90 807.27 C 473.90 809.48 472.10 811.27 469.90 811.27 C 467.69 811.27 465.90 809.48 465.90 807.27 C 465.90 805.06 467.69 803.27 469.90 803.27 C 472.10 803.27 473.90 805.06 473.90 807.27 z"/>
+<title>Точка C</title>
+<desc>Точка C: Пересечение eq1 и f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+<clipPath id="clip4075f47a-d4b3-47e5-9b9a-d092517f3d71">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 473.90 807.27 C 473.90 809.48 472.10 811.27 469.90 811.27 C 467.69 811.27 465.90 809.48 465.90 807.27 C 465.90 805.06 467.69 803.27 469.90 803.27 C 472.10 803.27 473.90 805.06 473.90 807.27 z"/>
+<title>Точка C</title>
+<desc>Точка C: Пересечение eq1 и f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+<clipPath id="clip2f5d2b3e-522d-4482-8537-b4326590a4e3">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 458.41 816.98 L 459.92 817.36 Q 459.45 819.23 458.20 820.22 Q 456.97 821.20 455.19 821.20 Q 453.33 821.20 452.17 820.45 Q 451.02 819.69 450.41 818.27 Q 449.80 816.83 449.80 815.19 Q 449.80 813.39 450.48 812.06 Q 451.17 810.73 452.42 810.05 Q 453.69 809.34 455.20 809.34 Q 456.92 809.34 458.09 810.22 Q 459.27 811.09 459.73 812.69 L 458.23 813.03 Q 457.84 811.78 457.08 811.22 Q 456.33 810.64 455.17 810.64 Q 453.86 810.64 452.97 811.28 Q 452.08 811.91 451.72 812.98 Q 451.36 814.05 451.36 815.17 Q 451.36 816.64 451.78 817.73 Q 452.22 818.81 453.11 819.36 Q 454.02 819.89 455.06 819.89 Q 456.33 819.89 457.20 819.16 Q 458.09 818.42 458.41 816.98 z"/>
+<title>Точка C</title>
+<desc>Точка C: Пересечение eq1 и f</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+<clipPath id="clip364d1dab-0623-481b-aaba-bf0c42fd1092">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 473.90 420.29 C 473.90 422.50 472.10 424.29 469.90 424.29 C 467.69 424.29 465.90 422.50 465.90 420.29 C 465.90 418.08 467.69 416.29 469.90 416.29 C 472.10 416.29 473.90 418.08 473.90 420.29 z"/>
+<title>Точка E</title>
+<desc>Точка E: Пересечение g и eq1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+<clipPath id="clip2d73ae2b-92de-44e3-a48f-59386e7c88ee">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 473.90 420.29 C 473.90 422.50 472.10 424.29 469.90 424.29 C 467.69 424.29 465.90 422.50 465.90 420.29 C 465.90 418.08 467.69 416.29 469.90 416.29 C 472.10 416.29 473.90 418.08 473.90 420.29 z"/>
+<title>Точка E</title>
+<desc>Точка E: Пересечение g и eq1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+<clipPath id="cliped7c9e8e-7a3d-4f2b-b9db-9f48075cdd7f">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 444.27 407.00 L 444.27 395.55 L 452.55 395.55 L 452.55 396.89 L 445.78 396.89 L 445.78 400.41 L 452.12 400.41 L 452.12 401.75 L 445.78 401.75 L 445.78 405.64 L 452.81 405.64 L 452.81 407.00 L 444.27 407.00 z"/>
+<title>Точка E</title>
+<desc>Точка E: Пересечение g и eq1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+<clipPath id="clip3a2ff738-1f71-49f0-a2c8-68a1d2f6cd08">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 764.12 420.29 C 764.12 422.50 762.33 424.29 760.12 424.29 C 757.92 424.29 756.12 422.50 756.12 420.29 C 756.12 418.08 757.92 416.29 760.12 416.29 C 762.33 416.29 764.12 418.08 764.12 420.29 z"/>
+<title>Точка F</title>
+<desc>Точка F: Пересечение g и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+<clipPath id="clip8aea1a27-3dbe-43e2-8bc4-0cf179f7d284">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 764.12 420.29 C 764.12 422.50 762.33 424.29 760.12 424.29 C 757.92 424.29 756.12 422.50 756.12 420.29 C 756.12 418.08 757.92 416.29 760.12 416.29 C 762.33 416.29 764.12 418.08 764.12 420.29 z"/>
+<title>Точка F</title>
+<desc>Точка F: Пересечение g и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+<clipPath id="clipfd88ae4b-3e8e-4d08-890a-7fc08fb32f5f">
+  <path d="M 0.0000 0.0000 L 0.0000 842.00 L 1237.0 842.00 L 1237.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 765.31 412.00 L 765.31 400.55 L 773.05 400.55 L 773.05 401.89 L 766.83 401.89 L 766.83 405.44 L 772.20 405.44 L 772.20 406.80 L 766.83 406.80 L 766.83 412.00 L 765.31 412.00 z"/>
+<title>Точка F</title>
+<desc>Точка F: Пересечение g и eq2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

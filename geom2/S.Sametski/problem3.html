@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>Задача 3</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.44/dist/katex.min.css" integrity="sha384-irXK0JiCGinqGL+slwVklbhJetrjczNwaP2lANewD8lKAs9n61SbQ3As28iSqXUE" crossorigin="anonymous">
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.44/dist/katex.min.js" integrity="sha384-m/s9umSlhJbqEdA/j7pQVdGCMx2fHf7GXtgCVhNGOwLuu+1qJQES5AzIE8pn3nKQ" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.44/dist/contrib/auto-render.min.js" integrity="sha384-bjyGPfbij8/NDKJhSGZNP/khQVgtHUE5exjm4Ydllo42FwIgYsdLO2lXGmRBf5Mz" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+        <style>
+            body {
+                margin: auto;
+                font-family: 'Times New Roman', serif;
+                max-width: 600px;
+                text-align: justify;
+            }
+            .head {
+                font-weight: 700;
+                font-size: 1.5em;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="head">
+            Выполнил Самецкий Степан 11-2
+            </p> Задача 3
+        </div>
+
+        <div>
+        </p>Окружность с центром O вписана в угол, равный 60°. Окружность большего радиуса с центром O1 также вписана в этот угол и проходит через точку <br>
+        <n></n>
+        а)  Докажите, что радиус второй окружности вдвое больше радиуса первой.<br>
+        б)  Найдите длину общей хорды этих окружностей, если известно, что радиус первой окружности равен \(2\sqrt{3}\)
+        
+        <div class="head">
+            </p>Решение:
+        </div>
+
+        <div>
+            <img src="problem3.svg" alt="Рисунок к решению" width="600" height="400">
+
+        </p>а) Обозначим радиус первой окружности за \(r = |OA|\), а второй за \(R = |O_{1}A_{1}|\). Т.к. окружности касаются стороон угла, то их центры равноудалены от сторон угла,
+             а значит лежат на биссектрисе угла. Если \([CO_{1})\) - биссектриса исходного угла, тогда \(\widehat{OCA}=30^\circ\). Напротив угла в \(30^\circ\)
+             лежит катит в 2 раза корочке гипотинузы, значит \(|CO| = 2|OA| = 2r\). Аналогично \(|CO_{1}| = 2|O_{1}A_{1}| = 2R\).
+             Получаем:<br> \(2R = 2|O_{1}A_{1}| = |CO_{1}| = |CO| + |OO_{1}| = 2r + R\), значит \(R = 2r\).<br>
+             ч.т.д.
+        </p>б) Пользуясь доказанным в предыдущем пункте фактом, можем сказать, что \(R = 4\sqrt{3}\). Зная, что \(|OO_{1}| = |O_{1}K| = R = 4\sqrt{3}\)
+             и \(|OK| = r = 2\sqrt{3}\), запишим теорему косинусов для треугольника \(KOO_{1}\).
+             $$
+             (2\sqrt{3})^2 = (4\sqrt{3})^2 + (4\sqrt{3})^2 - 2(4\sqrt{3})^2\cos(\widehat{OO_{1}K}) \iff \\
+             12 = 96 - 96\cos(\widehat{OO_{1}K}) \iff 
+             \cos(\widehat{OO_{1}K}) = \frac{7}{8} \iff 
+             \sin(\widehat{OO_{1}K}) = \frac{\sqrt{15}}{8}
+             $$
+             Т.к. \([TK]\) - общая хорда, то она перпендикулярна линии центров \((OO_{1})\), тогда треугольник \(KMO_{1}\) прямоугольный.
+             Получаем:<br>\(|MK| = |O_{1}K|\sin(\widehat{OO_{1}K}) = \frac{3\sqrt{5}}{2}\)<br>
+             Поскольку в треугольнике \(TKO_{1}\) две стороны -  радиусы окружности, он равнобедренный, а значит \([O_{1}M]\) - высота и медиана
+             в треугольнике \(KO_{1}T\),
+             значит \(|KT| = 2|MK| = 3\sqrt{5}\)<br>
+             Ответ: \(3\sqrt{5}\)
+
+
+        </div>
+    </body>
+</html>

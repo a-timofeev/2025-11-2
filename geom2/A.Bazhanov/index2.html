@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задача №7</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+        onload="renderMathInElement(document.body);"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: white;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin: 0 0 10px 0;
+            font-weight: normal;
+        }
+
+        .info {
+            font-size: 18px;
+            margin-bottom: 30px;
+            color: #3e535e;
+        }
+
+        .condition {
+            margin: 30px 0;
+            font-size: 19px;
+            line-height: 1.6;
+            color: #3e535e;
+        }
+
+        .condition p {
+            margin: 15px 0;
+        }
+
+        .drawing p {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: #3e535e;
+        }
+
+        .drawing img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1><i><b>Задача №7</b></i></h1>
+        <div class="info">Бажанов Алексей 11-2</div>
+
+        <div class="condition">
+            <p><strong>Условие задачи:</strong></p>
+            <p>Окружность, вписанная в ромб \( ABCD \), касается сторон \( CD \) и \( BC \) в точках \( M \) и \( Q \)
+                соответственно. Прямые \( AM \) и \( BC \) пересекаются в точке \( P \).</p>
+            <p>a) Докажите, что \( BP \cdot BQ = BC^2 \).</p>
+            <p>b) Найдите угол \( \angle APC \), если известно, что \( DM = 4 \) и \( MC = 9 \).</p>
+        </div>
+
+        <div class="drawing">
+            <p><strong>Чертеж к пункту а:</strong></p>
+            <img src="7a.svg" alt="Чертеж к пункту а">
+        </div>
+
+        <div class="condition">
+            <p><strong>Решение пункта а:</strong></p>
+            <p>Введём следующие обозначения: пусть \( DM = BQ = x \), а \( CM = y \). Рассмотрим треугольники \( CMP \)
+                и \( DMA \). Они являются подобными, коэффициент подобия равен \( \frac{CM}{MD} = \frac{y}{x} \).
+            </p>
+            <p>Исходя из этого, выразим длину отрезка \( CP \):</p>
+            <p>\[ CP = \frac{y}{x} \cdot AD = \frac{y(x+y)}{x} \]</p>
+            <p>Теперь выразим \( BP \):</p>
+            <p>\[ BP = BC + CP = x + y + \frac{y(x+y)}{x} = (x+y)\left(1 + \frac{y}{x}\right) = \frac{(x+y)^2}{x} =
+                \frac{BC^2}{BQ} \]</p>
+            <p>Из данных равенств напрямую следует, что \( BP \cdot BQ = BC^2 \). Что и требовалось
+                доказать.</p>
+        </div>
+
+        <div class="drawing">
+            <p><strong>Чертеж к пункту б:</strong></p>
+            <img src="7b.svg" alt="Чертеж к пункту б">
+        </div>
+
+        <div class="condition">
+            <p><strong>Решение пункта б:</strong></p>
+            <p>Пусть точка \( O \) — центр вписанной в ромб окружности, а \( r \) — её радиус. Отрезок \( OM \)
+                является высотой в прямоугольном треугольнике \( COD \), проведённый к гипотенузе. Следовательно:
+            </p>
+            <p>\[ r = OM = \sqrt{DM \cdot MC} = \sqrt{4 \cdot 9} = 6 \]</p>
+            <p>Из этого делаем вывод, что высота ромба составляет \( 2r = 12 \).</p>
+
+            <p>Опустим перпендикуляр из вершины \( A \) на прямую \( BC \) и обозначим его основание буквой \( H \).
+                Очевидно, что \( AH \) является высотой ромба, поэтому \( AH = 2r = 12 \). Сторона ромба равна \(
+                4 + 9 = 13 \). По теореме Пифагора найдём отрезок \( BH \):</p>
+            <p>\[ BH = \sqrt{AB^2 - AH^2} = \sqrt{13^2 - 12^2} = 5 \]</p>
+
+            <p>Из подобия подобие треугольников \( CMP \) и \( DMA \), вычислим длину \( CP \):
+            </p>
+            <p>\[ CP = \frac{CM}{MD} \cdot AD = \frac{9}{4} \cdot 13 = \frac{117}{4} \]</p>
+
+            <p>Найдем длину отрезка \( PH \):</p>
+            <p>\[ PH = CP + BC + BH = \frac{117}{4} + 13 + 5 = \frac{189}{4} \]</p>
+
+            <p>Рассмотрим прямоугольный треугольник \( AHP \). Тангенс угла можно вычислить так:</p>
+            <p>\[ \operatorname{tg} \angle APH = \frac{AH}{PH} = \frac{12 \cdot 4}{189} = \frac{16}{63} \]</p>
+
+            <p>Поскольку углы \( \angle APC \) и \( \angle APH \) совпадают, получаем:</p>
+            <p>\[ \angle APC = \operatorname{arctg} \frac{16}{63} \]</p>
+
+            <p><strong>Ответ: б) \( \operatorname{arctg} \frac{16}{63} \)</strong></p>
+        </div>
+    </div>
+</body>
+
+</html>
